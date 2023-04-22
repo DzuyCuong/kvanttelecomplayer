@@ -1,0 +1,390 @@
+{
+	"tv_program_path":"",
+	"channels": [
+
+		{
+			"name":"Qazaqstan",
+			"path":"https://sc.id-tv.kz/Qazaqstan_international_HD.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/3556a0f708adbabcc03f7b20034dbd69.png",
+			"tv_show_id":"qazaqstan"
+        },
+        {
+			"name":"Balapan,
+			"path":"https://sc.id-tv.kz/Balapan_International_HD.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/46ced27ea3ddbc0ec9f9704cc3c7db34.png",
+			"tv_show_id":"balapan"
+		},
+		{
+			"name":"Хабар",
+			"path":"https://sc.id-tv.kz/Khabar.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/a359dc325859979d7674dc4544d83bcd.png",
+			"tv_show_id":"habar"
+		},
+		{
+			"name":"Хабар 24",
+			"path":"https://sc.id-tv.kz/Khabar_24.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/417f57cca563a615f7c4d474e17ae358.png",
+			"tv_show_id":"habar24"
+		},
+		{
+			"name":"Astana TV",
+			"path":"https://sc.id-tv.kz/Astana.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/843effe06da78f618be65ddc6bcf6ba8.png",
+			"tv_show_id":"astanatv"
+		},
+		{
+			"name":"Ел Арна",
+			"path":"https://sc.id-tv.kz/ElArna.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/72f530761589abd15d3dc7c6ae8d586e.png",
+			"tv_show_id":"elarna"
+		},
+		{
+			"name":"31 канал",
+			"path":"https://sc.id-tv.kz:443/31Kanal.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/3977af4f95720a0a8f70b95f5acf731b.png",
+			"tv_show_id":"31"
+		},
+		{
+			"name":"7 канал",
+			"path":"https://sc.id-tv.kz/7_kanal.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/206717e5ed6e1ac52bd5d1bd91cb8ef4.png",
+			"tv_show_id":"7kanal"
+		},
+		{
+			"name":"КТК",
+			"path":"https://sc.id-tv.kz/KTK_34_35.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/abc34e8b4759081f425a96e9f3345358.png",
+			"tv_show_id":"ktk"
+		},
+		{
+			"name":"Jibek Joly",
+			"path":"https://sc.id-tv.kz/KAZAKHTV.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/b0aeec11ef3676fb1db9205dc129a075.png",
+			"tv_show_id":"qazaqtv"
+		},
+		{
+			"name":"МИР",
+			"path":"https://sc.id-tv.kz/Mir.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/f516b32634fb926be519db7f8ef876a9.png",
+			"tv_show_id":"mir"
+		},
+		{
+			"name":"НТК",
+			"path":"https://sc.id-tv.kz/NTK.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/f544102a2b5bbbe4bddb018adfc6179c.png",
+			"tv_show_id":"ntk"
+		},
+		{
+			"name":"Первый канал Евразия",
+			"path":"https://sc.id-tv.kz/1KanalEvraziya.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/95e57a3f1e417bb3f3f8b9cdf5985031.png",
+			"tv_show_id":"1eurasia"
+		},
+		{
+			"name":"Abai TV",
+			"path":"https://sc.id-tv.kz/AbaiTV.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/901f790fea612a49433bbe5a9bdb902b.png",
+			"tv_show_id":"abaitv"
+		},
+		{
+			"name":"Новое ТВ",
+			"path":"https://sc.id-tv.kz/NovoeTelevidenie.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/9d1966e3e6354859f89b184e84f366dd.png",
+			"tv_show_id":"novoetv"
+		},
+		{
+			"name":"Туран ТВ",
+			"path":"https://sc.id-tv.kz/TuranTV.m3u8",
+			"image":"",
+			"tv_show_id":"turan"
+		},
+		{
+			"name":"Ertis",
+			"path":"https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
+			"image":"",
+			"tv_show_id":"ertis"
+		},
+		{
+			"name":"Россия РТР",
+			"path":"https://sc.id-tv.kz/RossiyaRTR.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/044d956c85f1d0eb5103904e8dc18dc2.png",
+			"tv_show_id":"russiartr"
+		},
+		{
+			"name":"Первый Канал СНГ",
+			"path":"https://sc.id-tv.kz/1KanalVsemSet.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/593af83118f5f9b7cf2905137e20a468.png",
+			"tv_show_id":"1kanalcis"
+		},
+		{
+			"name":"Россия 24",
+			"path":"https://sc.id-tv.kz/Rossiya24.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/54d9dc5dc550e7a9abeb7b7f0cd2e7a9.png",
+			"tv_show_id":"russia24"
+		},
+		{
+			"name":"Россия К",
+			"path":"https://sc.id-tv.kz/RossiyaK.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/7b2a84f792b363a7c06b04b10adaed47.png",
+			"tv_show_id":"russiak"
+		},
+		{
+			"name":"CTC",
+			"path":"https://sc.id-tv.kz/STS.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/6691aad67567d223b166a6a378a92e19.png",
+			"tv_show_id":"ctc"
+		},
+		{
+			"name":"ТВЦ",
+			"path":"https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/7071f50e1f52b9d930d8bf6c42298d5d.png",
+			"tv_show_id":"tvc"
+		},
+		{
+			"name":"НТВ Мир",
+			"path":"https://sc.id-tv.kz/NTV.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/e0312e1a7f01a531ecda6ab9938b7c7b.png",
+			"tv_show_id":"ntvmir"
+		},
+		{
+			"name":"Рен ТВ",
+			"path":"https://sc.id-tv.kz/RenTV.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/2fb9b01017313f4def93c1da0bd744d1.png",
+			"tv_show_id":"ren"
+		},
+		{
+			"name":"ТНВ Планета",
+			"path":"https://sc.id-tv.kz/TNV-Planeta.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/d9328cfdc81927e2f106120da12373c0.png",
+			"tv_show_id":"tnv"
+		},
+		{
+			"name":"ТНТ",
+			"path":"https://sc.id-tv.kz/tntComedy.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/82562d49513bb4e0ec9eecd3c51010de.png",
+			"tv_show_id":"tnt"
+		},
+		{
+			"name":"ТНТ4",
+			"path":"https://sc.id-tv.kz/tnt4.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/bd992f659d609cf9657e185c5aca1742.png",
+			"tv_show_id":"tnt4"
+		},
+		{
+			"name":"Пятница",
+			"path":"https://sc.id-tv.kz/friday.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/cea880e4e60cf87a3fa7f0172c9590a0.png",
+			"tv_show_id":"piatnica"
+		},
+		{
+			"name":"Дом кино",
+			"path":"https://sc.id-tv.kz/DomKino.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/5907da3558f725b3049fef56a4fba5e6.png",
+			"tv_show_id":"domkino"
+		},
+		{
+			"name":"Индия",
+			"path":"https://sc.id-tv.kz/ZeeTVHD.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/daffe883dd820983d66e1fce97686e8a.png",
+			"tv_show_id":"zeetv"
+		},
+		{
+			"name":"Киносерия",
+			"path":"https://sc.id-tv.kz/Kinoseriya_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_analogue/7d8933d14c72ce402614e6121e028096.png",
+			"tv_show_id":"kinoseriia"
+		},
+		{
+			"name":"Viju TV1000",
+			"path":"https://sc.id-tv.kz/TV1000_34_35.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/168644b1cc35a19de4798c4e9ccea744.png",
+			"tv_show_id":"tv1000"
+		},
+		{
+			"name":"Viju TV1000 Action",
+			"path":"https://sc.id-tv.kz/TV1000Action.m3u8",
+			"image":"https://file.kvant.mk.ua/logo/uakrym.png",
+			"tv_show_id":"tv1000action"
+		},
+		{
+			"name":"Viju TV1000 Русское",
+			"path":"https://sc.id-tv.kz/TV1000RuKino.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/cc14cafc9430fbe04fc534ad97e62303.png",
+			"tv_show_id":"tv1000rus"
+		},
+		{
+			"name":"KHL Prime",
+			"path":"https://sc.id-tv.kz/FHD_KHL.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/30d2cd9524c749137f8acd48639c55d6.png",
+			"tv_show_id":"khlhd"
+		},
+		{
+			"name":"Матч! Планета",
+			"path":"https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/be0cac0d4fc01da974a8d5415f34484d.png",
+			"tv_show_id":"matchplaneta"
+		},
+		{
+			"name":"Кинокомедия",
+			"path":"https://sc.id-tv.kz/Kinokomediya_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/d89a5f5017942eec4d2addd46b34fb6b.png",
+			"tv_show_id":"kinokomediia"
+		},
+		{
+			"name":"Мужское Кино",
+			"path":"https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/c3f2a95a4259c72005e81b1c1749e5d3.png",
+			"tv_show_id":"muzskoekino"
+		},
+		{
+			"name":"Родное кино",
+			"path":"https://sc.id-tv.kz/Rodnoe_kino.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/36153717cbc8ce6193f995b8b9a053ef.png",
+			"tv_show_id":"rodnoekino"
+		},
+		{
+			"name":"Киносемья",
+			"path":"https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/0027bffed87102b57bfcab3a8559c12b.png",
+			"tv_show_id":"kinocemia"
+		},
+		{
+			"name":"Кинохит",
+			"path":"https://sc.id-tv.kz/Kinohit_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/ef027d86f257eb2f5660f7d6c5ea7612.png",
+			"tv_show_id":"kinohit"
+		},
+		{
+			"name":"Viju Explore",
+			"path":"https://sc.id-tv.kz/ViasatExplorer.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/6d3edb8d57ae2baf64a5cc8b8f3d2852.png",
+			"tv_show_id":"viasatexplore"
+		},
+		{
+			"name":"Viju Nature",
+			"path":"https://sc.id-tv.kz/ViasatNature.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/4939517fa78f5389a911489ad194b739.png",
+			"tv_show_id":"viasatnature"
+		},
+		{
+			"name":"Viju History",
+			"path":"https://sc.id-tv.kz/ViasatHistory.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/d5bf3ae2d4154c64835569cec17ffe2f.png",
+			"tv_show_id":"viasathistory"
+		},
+		{
+			"name":"Киносвидание",
+			"path":"https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/5a3ea32cab439c63423eef6f8dcd500e.png",
+			"tv_show_id":"kinosvidanie"
+		},
+		{
+			"name":"Кинопремьера",
+			"path":"https://sc.id-tv.kz/Kinopremiera_hd.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/137ca1001f0671e77d690c2f64a658b8.png",
+			"tv_show_id":"kinopremera"
+		},
+		{
+			"name":"Победа",
+			"path":"https://sc.id-tv.kz/Pobeda.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/bb629268ae1e3311c048d3b843081b16.png",
+			"tv_show_id":"rada"
+		},
+		{
+			"name":"Музыка Первого",
+			"path":"https://sc.id-tv.kz/MuzikaPervogo.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/c338b24e5f9109619b1d68e85ad713f8.png",
+			"tv_show_id":"muzikapervogo"
+		},
+		{
+			"name":"Карусель",
+			"path":"https://sc.id-tv.kz/Kaursel.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/f94e90ed2b665a383a4dd975f829bf8a.png",
+			"tv_show_id":"karusel"
+		},
+		{
+			"name":"Мульт",
+			"path":"https://sc.id-tv.kz/Mult.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/046288eb71c7be776eb296d3c23e22e9.png",
+			"tv_show_id":"mult"
+		},
+		{
+			"name":"Телекафе",
+			"path":"https://sc.id-tv.kz/Telecafe.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/d23db6d631c17e96bdc5308177d13e60.png",
+			"tv_show_id":"telecafe"
+		},
+		{
+			"name":"Моя Планета",
+			"path":"https://sc.id-tv.kz/MoyaPlaneta.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/dbb7ecc1e8db88a978972323368c90a5.png",
+			"tv_show_id":"moiaplaneta"
+		},
+		{
+			"name":"Дом Кино Премиум",
+			"path":"https://sc.id-tv.kz/domkino_hd.m3u8",
+			"image":"https://file.kvant.mk.ua/logo/suspilne.jpg",
+			"tv_show_id":"domkinohd"
+		},
+		{
+			"name":"Поехали!",
+			"path":"https://sc.id-tv.kz/poehali.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/c36ca88fdd4025bf39c8b087605273d9.png",
+			"tv_show_id":"poehali"
+		},
+		{
+			"name":"Иллюзион +",
+			"path":"https://sc.id-tv.kz/IlluzionPlus.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/4364b95c8114cc3830a94f7572e44788.png",
+			"tv_show_id":"illuzionplus"
+		},
+		{
+			"name":"Русский Иллюзион",
+			"path":"https://sc.id-tv.kz/RusIlluzion.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/9c75bdf85cf9b321e691f88da162af7f.png",
+			"tv_show_id":"rusilluzion"
+		},
+		{
+			"name":"О!",
+			"path":"https://sc.id-tv.kz/o.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/c64935be4263490623071530c5e078cd.png",
+			"tv_show_id":"o"
+		},
+		{
+			"name":"Viju+ Sport",
+			"path":"https://sc.id-tv.kz/ViasatSport.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/e187651d3d4210f79bae59cfcfbf15a0.png",
+			"tv_show_id":"viasatsport"
+		},
+		{
+			"name":"Бобёр",
+			"path":"https://sc.id-tv.kz/bober.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/66ae03431eb7228bf8ce9e0e35d686de.png",
+			"tv_show_id":"bober"
+		},
+		{
+			"name":"Время",
+			"path":"https://sc.id-tv.kz/Vremya.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/e352a648eb7345b542911b2a29ad64b2.png",
+			"tv_show_id":"vremia"
+		},
+		{
+			"name":"Рыбалка и охота",
+			"path":"https://sc.id-tv.kz/Ribalka_Ohota.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/f9d97746d8d185eb8891d445b4cc0298.png",
+			"tv_show_id":"ribalkaohota"
+		},
+		{
+			"name":"Da Vinci",
+			"path":"https://sc.id-tv.kz/DaVinci.m3u8",
+			"image":"https://uplink.kz/srvimages/tv_digital/28a87476d259392839071808e960cea6.png",
+			"tv_show_id":"davinci"
+		},
+		{
+			"name":"Rai News 24",
+			"path":"https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1200/chunklist.m3u8",
+			"image":"https://www.cableman.ru/sites/default/files/rai_news_24.jpg",
+			"tv_show_id":"rainews"
+		}
+	]
+}
